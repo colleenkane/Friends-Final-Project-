@@ -13,9 +13,6 @@ summary(data$male_characters)
 # box plot 
 boxplot(data$ratings_episodes)
 
-# Run Data
-table(data$ratings_episodes, data$episode_awards)
-
 # Creation of Scatter Plot 
 plot(x = data$ratings_episodes,
      y = data$episode_awards,
