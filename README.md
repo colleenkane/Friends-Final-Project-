@@ -7,8 +7,6 @@ This project aims to investigate whether higher viewer ratings for episodes of t
 # Instructions
 To access and utilize my script, open the "Kanec2-final_project.R" file, which contains the code that I used for my project.  To access the dataset, open the "Final Proj Dataset.csv" file.
 
-# File Structure 
-
 # Data 
 The data collected for this project was the rating each episode of "F.R.I.E.N.D.S" received and if the episodes received any special awards, both of the information for these variables was found on the website "IMBd". The main goal of this analysis was to determine if a show received higher ratings if it was more likely to receive a special award. I analyzed their chance of receiving an award by tracking the ratings of each episode out of 10 and tracking if each episode received an award or not.  
 
